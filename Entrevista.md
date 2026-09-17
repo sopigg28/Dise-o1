@@ -1,4 +1,5 @@
 # Transcripción entrevista:
+
 **Sofia Delgado:** Para comenzar, Wanda, ¿podría contarnos brevemente cómo ocurrió el accidente?
 
 **Wanda:** Tuve un accidente de tránsito en el que sufrí una fractura expuesta y conminuta en el fémur derecho.
@@ -25,7 +26,7 @@
 
 **Sofia Delgado:** ¿Siente dolor? Si es así, ¿en qué situaciones aparece o aumenta?
 
-**Wanda:** \[Indicar si actualmente presenta dolor, dónde se localiza, con qué frecuencia aparece y qué actividades o movimientos hacen que aumente.\]
+**Wanda:** No se presenta dolor, solo se ubica una molestia en el miembro inferior derecho a la hora de hacer caminatas largas, por el esfuerzo extra que genera el apoyo del mismo.
 
 **Sophia Gil:** ¿Utiliza actualmente algún dispositivo de apoyo, como bastón, muletas, caminador, plantilla o calzado especial?
 
@@ -33,11 +34,11 @@
 
 **Sofia Delgado:** ¿Qué tan cómodo o incómodo le resultaba utilizar ese apoyo durante su recuperación?
 
-**Wanda:** \[Describir si el apoyo era cómodo, pesado, incómodo, fácil de transportar, si limitaba algún movimiento o si generaba alguna dificultad.\]
+**Wanda:** El apoyo es incómodo ante largas distancias y a la hora de hacer la flexión de rodilla se presenta una molestia e inseguridad para la flexión de la esta articulación.
 
 **Sophia Gil:** ¿Cómo se moviliza normalmente en su vida cotidiana: caminando, en transporte público, automóvil, motocicleta u otro medio?
 
-**Wanda:** \[Indicar cuál es el medio de transporte que utiliza con mayor frecuencia y si presenta alguna dificultad al subir, bajar, permanecer sentada o desplazarse hacia y desde el vehículo.\]
+**Wanda:** Me movilizo en moto y es complejo a la hora de flexionar la rodilla para subirme a esta por el rango inferior al normal.
 
 **Sofia Delgado:** ¿Hay alguna actividad que le gustaría poder realizar nuevamente sin dificultad?
 
@@ -54,3 +55,4 @@
 **Sophia Gil:** Finalmente, si pudiera pedirnos que resolviéramos una sola necesidad relacionada con su movilidad, ¿cuál sería?
 
 **Wanda:** Mi principal necesidad sería poder caminar de una manera más estable y natural, reduciendo el esfuerzo que tengo que hacer con la pierna derecha y disminuyendo el cansancio durante mis actividades cotidianas. También quisiera recuperar mayor facilidad para flexionar la rodilla y realizar movimientos como agacharme.
+mis actividades cotidianas. También quisiera recuperar mayor facilidad para flexionar la rodilla y realizar movimientos como agacharme.
