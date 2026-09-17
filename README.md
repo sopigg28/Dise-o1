@@ -46,7 +46,7 @@ Características demográficas:
 13. ¿Qué cosas harían que dejara de utilizar esa solución?
 14. Si pudiera pedirnos que resolviéramos una necesidad relacionado con su movilidad, ¿Cuál sería?
 
-### ## Transcripción de la entrevista:
+### Transcripción de la entrevista:
 
 **Sofia Delgado:** Para comenzar, Wanda, ¿podría contarnos brevemente cómo ocurrió el accidente?
 
