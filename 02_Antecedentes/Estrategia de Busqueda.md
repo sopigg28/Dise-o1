@@ -66,3 +66,21 @@ Se buscó evidencia científica y normativa que permitiera justificar técnicame
 **Inglés:** ISO 13485, ISO 14971, medical device standards, pressure injury guideline, pressure ulcer prevention, immobility complications, NPIAP EPUAP PPPIA
 
 **Español:** normas ISO dispositivos médicos, gestión de riesgos, prevención de úlceras por presión, complicaciones por inmovilidad
+
+## Criterios de inclusión y exclusión de la búsqueda bibliográfica
+
+| **Criterio** | **Inclusión** | **Exclusión** |
+|---|---|---|
+| **Pilar 1 — Evento desencadenante** | Estudios en **personas adultas (≥18 años)** que hayan sufrido un **accidente de tránsito con afectación del miembro inferior**, documentado como el evento inicial del cuadro clínico | Pacientes pediátricos, o accidentes sin afectación específica y verificable del miembro inferior |
+| **Pilar 2 — Discrepancia de longitud** | Que el accidente haya **desencadenado una discrepancia en la longitud de los miembros inferiores** (diferencia de tamaño entre ambas extremidades), documentada como secuela del trauma | Estudios sobre discrepancia de extremidades de origen congénito, degenerativo o no asociado al trauma |
+| **Pilar 3 — Limitación de la flexión de rodilla** | Que además exista una **reducción del ángulo de flexión de la rodilla** del miembro afectado, como secuela postraumática que limita el rango de movimiento | Estudios sobre rigidez o limitación de rodilla de origen degenerativo, reumático o no relacionado con el trauma |
+| **Pilar 4 — Impacto funcional en la marcha** | Que la combinación de los tres factores anteriores **comprometa el movimiento biomecánico de la marcha**, documentando una alteración del patrón de desplazamiento, del equilibrio o de la funcionalidad al caminar | Estudios que describan las secuelas de forma aislada sin evaluar su repercusión en la marcha o en la funcionalidad del desplazamiento |
+| **Tipo de documento** | Artículos de revistas científicas revisadas por pares, revisiones sistemáticas, metaanálisis, guías de práctica clínica y documentos normativos oficiales | Tesis no publicadas, resúmenes de congresos sin texto completo, blogs, foros y literatura gris sin respaldo institucional |
+| **Idioma** | Inglés y español | Otros idiomas (salvo traducción oficial verificable) |
+| **Periodo de publicación** | Últimos 10 años (2016–2026), priorizando los últimos 5 años (2021–2026); se admiten estudios clásicos previos solo si son de referencia obligada (escalas validadas o normas fundacionales) | Publicaciones anteriores a 2016, salvo las excepciones de referencia clásica justificadas |
+| **Accesibilidad** | Textos completos disponibles (open access o acceso institucional) | Artículos solo con resumen, sin posibilidad de verificar metodología y resultados |
+| **Población de estudio** | Estudios en humanos adultos con el cuadro completo descrito en los cuatro pilares, incluyendo pacientes con osteopenia | Estudios en animales, población pediátrica, o patologías no relacionadas con los cuatro pilares |
+| **Calidad metodológica** | Estudios con metodología clara, instrumentos de medición validados (goniómetro para flexión de rodilla, radiografía o escaner para discrepancia, análisis de marcha) y análisis estadístico apropiado | Estudios con sesgos metodológicos evidentes o con datos insuficientes para verificar las conclusiones |
+| **Normativas y guías clínicas** | Documentos vigentes de ISO, ANSI, NPIAP, EPUAP, PPPIA y el International Pressure Injury/Ulcer Guideline aplicables a dispositivos médicos y manejo de pacientes con movilidad reducida | Normas derogadas, versiones obsoletas o documentos no oficiales |
+
+
