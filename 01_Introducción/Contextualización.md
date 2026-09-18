@@ -5,6 +5,13 @@ El presente proyecto aborda las dificultades de movilidad y desempeño físico d
 
 Estas condiciones incrementan el esfuerzo requerido para desplazarse y realizar actividades cotidianas, produciendo fatiga, dificultades para mantener el equilibrio y limitaciones en movimientos como agacharse. En conjunto, esta situación condiciona la movilidad, la estabilidad, el esfuerzo físico y la autonomía de la persona en su vida diaria.
 
+## Objetivos Específicos:
+- Garantizar la seguridad del miembro inferior, protegiendo los elementos de fijación y minimizando impactos y sobrecargas ante la osteopenia.
+- Asegurar la estabilidad y alineación durante la marcha, compensando la pérdida de fuerza muscular y reduciendo el riesgo de caídas.
+- Facilitar la movilidad, permitiendo la flexión de rodilla y los movimientos de descenso con menor esfuerzo físico.
+- Promover la autonomía, mediante una solución discreta, cómoda y fácil de integrar a la rutina diaria.
+
+
 ## Protocolo 
 ### Método Seleccionado
 Entrevistas semiestructuradas cualitativas (con observación directa de uso y solicitud de registro visual/documental).
