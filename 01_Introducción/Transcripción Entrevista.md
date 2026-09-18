@@ -1,4 +1,4 @@
-## Transcripción entrevista usuario primero caso 1 (Wanda Herrera):
+## Transcripción entrevista usuario primer caso 1 (Wanda Herrera):
 
 **Sofia Delgado:** Para comenzar, Wanda, ¿podría contarnos brevemente cómo ocurrió el accidente?
 
@@ -55,3 +55,13 @@
 **Sophia Gil:** Finalmente, si pudiera pedirnos que resolviéramos una sola necesidad relacionada con su movilidad, ¿cuál sería?
 
 **Wanda:** Mi principal necesidad sería poder caminar de una manera más estable y natural, reduciendo el esfuerzo que tengo que hacer con la pierna derecha y disminuyendo el cansancio durante mis actividades cotidianas. También quisiera recuperar mayor facilidad para flexionar la rodilla y realizar movimientos como agacharme.
+
+## Transcripción entrevista usuario segundo caso 2 (Sebastián Pamplona):
+
+**Sofia Delgado:** Eh, y si pudiéramos resolver tu necesidad relacionada a la movilidad de la rodilla mejorando tu seguridad, ¿qué imaginarías? 
+
+**Sebastian Pamplona:** Pues lo que yo usé mucho fue un estabilizador. Entonces, no sé, de pronto algo que recurra la rodilla, que pueda hacerla como más, más fuerte, más resistente. 
+
+**Sofia Delgado:** Y al estabilizador, ¿qué le cambiarías? para que fuera más de tu gusto. 
+
+**Sebastian Pamplona:** El estabilizador era demasiado incómodo, su estructura era muy rigida y permitia muy poco flujo de aire, y debido a su material rígido en la zona del tobillo tenía que tener el pie recto todo, todo el día. Creando una experiencia muy incómoda y agotadora con el estabilizador.
