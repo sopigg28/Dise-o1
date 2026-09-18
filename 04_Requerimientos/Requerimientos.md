@@ -22,3 +22,5 @@ Cada requerimiento está vinculado a su pilar y a un objetivo del árbol (con su
 | RQ-08 | El dispositivo debe garantizar amortiguación y manejo de cargas. | Absorción de impacto y distribución de carga dentro de límites seguros. |
 | RQ-09 | La ortesis debe asegurar protección durante la marcha(estabilidad ante desequilibrios). | Prueba de estabilidad en marcha sobre distintas superficies. |
 
+## Conclusión:
+Los requerimientos se derivan directamente de los tres pilares y del árbol de objetivos, priorizando la seguridad y protección de la paciente (mayor peso en el árbol), sin descuidar la estabilidad ni la movilidad. Todos son verificables y trazables (pilar - objetivo - requerimiento - especificación), lo que garantiza coherencia metodológica y validación objetiva del prototipo.
