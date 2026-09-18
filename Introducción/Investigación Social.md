@@ -1,4 +1,4 @@
-
+### Caracterización y Mapeo de Actores (Stakeholders)
 | Categoría de Actor | Actor | Rol/Descripción | Relación con el problema |
 | :---- | :---- | :---- | :---- |
 | Usuario Primario | Wanda Herrera (30 años) | Paciente con diagnóstico de Osteopenia desencadenado por una fractura expuesta y conminuta en el fémur derecho. Presenta una diferencia entre miembros inferiores de 4 cm y una reducción en los grados de flexión de la rodilla (60° de flexión). | Expuesta a la carga de peso en el miembro inferior afectado, a la limitación del rango de flexión de la rodilla y al riesgo de presión y fricción en la extremidad durante la movilización. |
