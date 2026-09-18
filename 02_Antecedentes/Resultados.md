@@ -1,5 +1,5 @@
 # Análisis de resultados de búsqueda
-La tabla siguiente resume, por bloque temático, el número aproximado de fuentes revisadas, el hallazgo principal y el nivel de consenso observado en la literatura. Este análisis constituye la base directa del marco teórico y estado del arte.
+La tabla siguiente resume, por bloque temático o pilar, el hallazgo esperado, la fuente o base de datos de donde se obtuvo la información, palabras clave de la búsqueda, el tipo de evidencia, numero de fuentes y el nivel de consenso en la literatura. Este análisis constituye la base directa del marco teórico y antecedentes.
 
 ## Tabla de Hallazgos
 
