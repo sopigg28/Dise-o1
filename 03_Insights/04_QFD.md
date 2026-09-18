@@ -74,6 +74,19 @@ Relación entre cada requerimiento y cada característica técnica.
 
 | Deseo (QUÉ) | CT1 Masa | CT2 Flexión | CT3 Compensación | CT4 Durabilidad | CT5 Costo | CT6 Presión | CT7 Amortiguación |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| RQ-01 Adaptación anatómica | Δ | O | ʘ | | | O | |
+| RQ-02 Compensar debilidad muscular | | ʘ | ʘ | | | O | |
+| RQ-03 Equilibrio y alineación | | O | ʘ | | | O | ʘ |
+| RQ-04 Transferencia y descenso | | ʘ | O | | | | O |
+| RQ-05 Integración a cotidianidad | ʘ | O | | O | ʘ | | |
+| RQ-06 Reducir esfuerzo en marcha | | O | ʘ | | | O | |
+| RQ-07 Integridad cutánea | O | | | O | | ʘ | O |
+| RQ-08 Amortiguación y manejo de cargas | | | | | | ʘ | ʘ |
+| RQ-09 Protección durante la marcha | | O | ʘ | | | O | ʘ |
+
+
+| Deseo (QUÉ) | CT1 Masa | CT2 Flexión | CT3 Compensación | CT4 Durabilidad | CT5 Costo | CT6 Presión | CT7 Amortiguación |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | RQ-01 Adaptación anatómica |  |  |  | | |  |  |
 | RQ-02 Compensar debilidad muscular |  |  |  | | |  |  |
 | RQ-03 Equilibrio y alineación |  |  |  | | |  |  |
