@@ -20,9 +20,7 @@
 ## Peso para cada objetivo:
 | Objetivo | Peso  | Porcentaje (%) |
 | :---- | :---- | :---- |
-| **Seguridad** | **6/21** | 0,28 |
-| **Movilidad** | **3/21** | 0,14 |
-| **Estabilidad** | **5/21** | 0,24 |
-| **Asistencia física** | **4/21** | 0,19 |
-| **Autonomía** | **2/21** | 0,09 |
-| **Comodidad** | **1/21** | 0,05 |
+| **Seguridad** | **4/10** | 0,4 |
+| **Movilidad** | **2/10** | 0,2 |
+| **Estabilidad** | **3/10** | 0,3 |
+| **Autonomía** | **1/10** | 0,1 |
