@@ -43,19 +43,19 @@ Se buscó evidencia científica y normativa que permitiera justificar técnicame
 **Bloque 3:** Afectaciones a la vida cotidiana por una reducción en la flexión de la rodilla.
 
 ## Palabras clave:
-**-Bloque 1: Accidentes de tránsito y miembros inferiores**
+**- Bloque 1: Accidentes de tránsito y miembros inferiores**
 
 **Inglés (PubMed/ScienceDirect):** lower extremity injuries, traffic accidents, motor vehicle accidents, femoral fracture, tibia fracture, fibular fracture, lower limb trauma, road traffic injuries, orthopedic trauma, post-traumatic sequelae, fracture rehabilitation
 
 **Español:** accidentes de tránsito, traumatismos de miembro inferior, fractura de fémur, fractura de tibia, secuelas postraumáticas, lesiones por accidente de tráfico
 
-**-Bloque 2: Discrepancia de longitud de miembros inferiores**
+**- Bloque 2: Discrepancia de longitud de miembros inferiores**
 
 **Inglés:** leg length discrepancy, lower limb length inequality, limb length difference, gait analysis, pelvic obliquity, compensatory scoliosis, joint overload, hip osteoarthritis, knee osteoarthritis, shoe lift, limb lengthening
 
 **Español:** discrepancia de longitud de miembros inferiores, diferencia de tamaño de extremidades, análisis de la marcha, oblicuidad pélvica, escoliosis compensatoria, sobrecarga articular
 
-**-Bloque 3: Reducción de la flexión de rodilla**
+**- Bloque 3: Reducción de la flexión de rodilla**
 
 **Inglés:** knee flexion range of motion, knee stiffness, post-traumatic knee stiffness, arthrofibrosis, activities of daily living, functional outcome, KOOS, Lower Extremity Functional Scale, knee rehabilitation, mobility limitations
 
