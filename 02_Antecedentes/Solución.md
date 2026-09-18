@@ -2,8 +2,11 @@
 La solución propuesta es una ortesis de apoyo para el miembro inferior (tipo ortesis de rodilla-tobillo-pie, KAFO) con tres funciones integradas:
 
 **- Control del rango de flexión de rodilla:** un sistema mecánico configurable a la altura de la rodilla que limita la flexión al ángulo máximo establecido médicamente, evitando que el paciente flexione más de lo permitido.
+
 **- Compensación de la discrepancia de longitud:** una plantilla de grosor acorde a los centímetros de diferencia entre ambos miembros, que nivela la altura y reduce el agotamiento físico en desplazamientos de larga distancia.
+
 **- Diseño abierto y ventilado:** la ortesis recubre muslo, pantorrilla y pie, pero solo interviene en los laterales de la pierna (con amarras de sujeción), dejando libres las caras anterior y posterior para permitir la transpiración.
+
 Este diseño busca otorgar seguridad al caminar y al agacharse, y nivelar la diferencia de longitud para la reducción del agotamiento físico.
 
 ## Fuentes y bases de datos (con tipos de datos por categoría):
