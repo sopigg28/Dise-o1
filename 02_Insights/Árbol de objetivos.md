@@ -9,15 +9,13 @@
 | **Autonomía** | Independencia, discreción, facilidad de uso |
 
 ## Tabla de comparación por pares:
-| Atributo | Seguridad | Movilidad | Estabilidad | Asistencia física | Autonomía | Comodidad | Total | Calificación |
-| ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
-| **Seguridad** | — | 1 | 1 | 1 | 1 | 1 | **5** | **6** |
-| **Movilidad** | 0 | — | 0 | 0 | 1 | 1 | **2** | **3** |
-| **Estabilidad** | 0 | 1 | — | 1 | 1 | 1 | **4** | **5** |
-| **Asistencia física** | 0 | 1 | 0 | — | 1 | 1 | **3** | **4** |
-| **Autonomía** | 0 | 0 | 0 | 0 | — | 1 | **1** | **2** |
-| **Comodidad** | 0 | 0 | 0 | 0 | 0 | — | **0** | **1** |
-|  |  |  |  |  |  | Total | **15** | — |
+| Atributo | Seguridad | Movilidad | Estabilidad | Autonomía | Total | Calificación |
+| ----- | ----- | ----- | ----- | ----- | ----- | ----- |
+| **Seguridad** | — | 1 | 1 | 1 | **3** | **4** |
+| **Movilidad** | 0 | — | 0 | 1 | **1** | **2** |
+| **Estabilidad** | 0 | 1 | — | 1 | **2** | **3** |
+| **Autonomía** | 0 | 0 | 0 | — | **0** | **1** |
+|  |  |  |  | Total | **6** | — |
 
 ## Peso para cada objetivo:
 | Objetivo | Peso  | Porcentaje (%) |
