@@ -84,6 +84,16 @@ Relación entre cada requerimiento y cada característica técnica.
 | RQ-08 Amortiguación y manejo de cargas | | | | | | ʘ | ʘ |
 | RQ-09 Protección durante la marcha | | O | ʘ | | | O | ʘ |
 
+### Revisión de las reglas de la matriz:
+
+| Regla | Cumplimiento |
+| :--- | :--- |
+| No filas en blanco | Las 9 filas tienen al menos 2 relaciones |
+| No columnas en blanco | Las 7 columnas tienen al menos 3 relaciones |
+| No más del 50 % llena | 31 de 63 celdas (49 %) |
+| No relaciones uno a uno | Ninguna fila tiene un solo símbolo |
+| Los tres tipos de relación | ʘ (9), O (3) y Δ (1) presentes |
+
 
 | Deseo (QUÉ) | CT1 Masa | CT2 Flexión | CT3 Compensación | CT4 Durabilidad | CT5 Costo | CT6 Presión | CT7 Amortiguación |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
