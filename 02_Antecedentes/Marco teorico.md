@@ -1,1 +1,1 @@
-# Árbol de problemas: 
+# Marco teorico: 
