@@ -34,7 +34,7 @@ El desarrollo del dispositivo debe cumplir con las normativas vigentes aplicable
 
 6. Cheuy VA, Foran JRH, Paxton RJ, Bade MJ, Zeni JA, Stevens-Lapsley JE. Arthrofibrosis associated with total knee arthroplasty. J Arthroplasty. 2017;32(8):2604–2611.
    
-7.Clark BC. In vivo alterations in skeletal muscle form and function after disuse atrophy. Med Sci Sports Exerc. 2009;41(10):1869–1875.
+7. Clark BC. In vivo alterations in skeletal muscle form and function after disuse atrophy. Med Sci Sports Exerc. 2009;41(10):1869–1875.
 
 8. Wall BT, Dirks ML, van Loon LJC. Skeletal muscle atrophy during short-term disuse: implications for age-related sarcopenia. Ageing Res Rev. 2013;12(4):898–906.
 
