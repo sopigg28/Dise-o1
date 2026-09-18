@@ -25,8 +25,9 @@ Este diseño busca otorgar seguridad al caminar y al agacharse, y nivelar la dif
 | **Patentes y productos comerciales** | Google Patents, Espacenet, bases de productos ortopédicos | Antecedentes de ortesis ya comercializadas o patentadas, para evaluar el grado de innovación |
 
 ##  Palabras clave para la búsqueda de antecedentes de la solución:
-**Inglés:** knee ankle foot orthosis, KAFO, lower limb orthosis, knee flexion control orthosis, adjustable knee orthosis, leg length discrepancy orthosis, height compensation orthosis, shoe lift orthosis, walking orthosis, post-fracture orthosis, gait orthosis, ventilated orthosis, custom orthosis
-**Español:** ortesis de miembro inferior, ortesis de rodilla, ortesis rodilla-tobillo-pie, ortesis ajustable, compensación de altura, plantilla de compensación, ortesis post-fractura, ortesis de marcha
+**Inglés:** knee ankle foot orthosis, KAFO, lower limb orthosis, knee flexion control orthosis, adjustable knee orthosis, leg length discrepancy orthosis, height compensation orthosis, shoe lift orthosis, walking orthosis, post-fracture orthosis, gait orthosis, ventilated orthosis, custom orthosis.
+
+**Español:** ortesis de miembro inferior, ortesis de rodilla, ortesis rodilla-tobillo-pie, ortesis ajustable, compensación de altura, plantilla de compensación, ortesis post-fractura, ortesis de marcha.
 
 ## Tabla de criterios de inclusión y exclusión:
 
