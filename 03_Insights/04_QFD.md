@@ -87,5 +87,3 @@ Relación entre cada requerimiento y cada característica técnica.
 
 ### Conclusión: 
 La propuesta se posiciona como una solución integral y accesible que supera a las ortesis comerciales especialmente en las necesidades prioritarias de la usuaria —seguridad en marcha, reducción de esfuerzo y facilidad de movimiento—, que son precisamente los requerimientos vinculados a los pilares de mayor peso en el árbol de objetivos (seguridad y protección, 0,4; estabilidad y adaptabilidad, 0,3).
-
-<img width="1600" height="1600" alt="image" src="https://github.com/user-attachments/assets/73798116-fe22-4048-92e1-0b5ff1779a97" />
