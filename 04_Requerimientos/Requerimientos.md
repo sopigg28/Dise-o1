@@ -21,3 +21,4 @@ Cada requerimiento está vinculado a su pilar y a un objetivo del árbol (con su
 | RQ-07 | La ortesis debe proteger la integridad cutánea(sin úlceras, roces ni puntos de presión). | Inspección de piel tras uso; materiales sin bordes cortantes. |
 | RQ-08 | El dispositivo debe garantizar amortiguación y manejo de cargas. | Absorción de impacto y distribución de carga dentro de límites seguros. |
 | RQ-09 | La ortesis debe asegurar protección durante la marcha(estabilidad ante desequilibrios). | Prueba de estabilidad en marcha sobre distintas superficies. |
+
