@@ -30,7 +30,8 @@ Características demográficas:
 - Nivel educativo / cognitivo: No determinado a partir de la información disponible.
 - Contexto: Persona que continúa su proceso de adaptación a las consecuencias funcionales derivadas del accidente de tránsito.
 
-### Guion de preguntas 
+### Preguntas entrevista caso 1 (Wanda Herrera):
+
 1. ¿Podría contarnos brevemente cómo ocurrió el accidente?
 2. ¿Hace cuánto ocurrió el accidente?
 3. ¿Cómo cambió su vida después del accidente?
@@ -46,3 +47,22 @@ Características demográficas:
 13. ¿Qué cosas harían que dejara de utilizar esa solución?
 14. Si pudiera pedirnos que resolviéramos una necesidad relacionado con su movilidad, ¿Cuál sería?
 
+### Preguntas entrevista caso 2 (Sebastian Pamplona):
+
+1. ¿Podrías indicarnos tu nombre?  
+2. ¿Podrías contarnos brevemente cómo ocurrió el accidente?  
+3. ¿En qué fecha ocurrió?  
+4. ¿Cómo cambió tu vida después del accidente?  
+5. ¿Qué actividades realizabas antes del accidente que ahora se te dificultan o ya no puedes realizar?  
+6. ¿Cómo describirías actualmente tu movilidad de rodilla?  
+7. ¿Podrías describirnos el tipo de lesión que presentaste?  
+8. ¿El dolor se presenta solo durante el ejercicio o también en el día a día?  
+9. ¿Cómo fue tu experiencia con el uso de muletas?  
+10. ¿Sigues usando muletas actualmente?  
+11. ¿Cómo te movilizas actualmente? ¿Sigues usando moto?  
+12. ¿Qué actividad te gustaría retomar sin la limitación actual de la rodilla?  
+13. ¿El malestar se limita únicamente al ejercicio, o presentas también fatiga rápida o alteraciones de la marcha como cojera?  
+14. ¿Con qué frecuencia realizas ejercicio?  
+15. ¿Y al jugar fútbol, la rodilla presenta molestias?  
+16. Si pudiéramos resolver tu necesidad relacionada a la movilidad de la rodilla mejorando tu seguridad, ¿qué imaginarías?  
+17. Y al estabilizador, ¿qué le cambiarías para que fuera más de tu gusto?
