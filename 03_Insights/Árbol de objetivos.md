@@ -29,6 +29,7 @@
 
 ## Árbol de objetivos:
 
+```mermaid
 mindmap
   root((**Ortesis para miembro inferior**<br>1 | 1))
     **Seguridad y protección**<br>0,4 | 0,4
@@ -43,3 +44,5 @@ mindmap
       Mantener el equilibrio y la alineación <br>**0,4** | **0,12**
       Adaptarse anatómicamente a la paciente <br>**0,35** | **0,105**
       Compensar la debilidad muscular <br>**0,25** | **0,075**
+```
+
