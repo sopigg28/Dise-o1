@@ -4,11 +4,9 @@
 | Eje | Atributos asociados |
 | ----- | ----- |
 | **Seguridad** | Protección, manejo de cargas, amortiguación, seguridad |
-| **Movilidad** | Libertad de movimiento, facilitación del descenso |
-| **Estabilidad** | Equilibrio, alineación, estabilidad durante la marcha |
-| **Asistencia física** | Compensación muscular, reducción del esfuerzo |
+| **Movilidad** | Libertad de movimiento, facilitación del descenso, integrable a la cotidianidad, reducción del esfuerzo |
+| **Estabilidad** | Equilibrio, alineación, estabilidad durante la marcha, adaptabilidad anatómica, compensación muscular |
 | **Autonomía** | Independencia, discreción, facilidad de uso |
-| **Comodidad** | Adaptabilidad anatómica, integrable a la cotidianidad |
 
 ## Tabla de comparación por pares:
 | Atributo | Seguridad | Movilidad | Estabilidad | Asistencia física | Autonomía | Comodidad | Total | Calificación |
