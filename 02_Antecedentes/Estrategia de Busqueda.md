@@ -4,7 +4,7 @@
 Se buscó evidencia científica y normativa que permitiera justificar técnicamente las necesidades expresadas por el usuario en la entrevista junto con sus métricas asociadas, así mismo como normativas que guiaran restricciones de nuestro proceso de diseño.
 
 ## Fuentes y bases de datos consultadas
-Bases de datos:
+### Bases de datos:
 
 - PubMed/NCBI (National Center for Biotechnology Information)
 - ScienceDirect (Editorial Elsevier)
@@ -15,7 +15,7 @@ Bases de datos:
 - IHME Global Burden of Disease (Institute for Health Metrics and Evaluation)
 - WHO Global Health Observatory (Organización Mundial de la Salud)
 
-Organizaciones científicas
+### Organizaciones científicas:
 
 - National Pressure Injury Advisory Panel (NPIAP)  
 - European Pressure Ulcer Advisory Panel (EPUAP)
@@ -24,12 +24,12 @@ Organizaciones científicas
 - Shirley Ryan AbilityLab
 - Organización Mundial de la Salud (OMS/WHO)
 
-Organismos normativos
+### Organismos normativos:
 
 - International Organization for Standardization (ISO)
 - American National Standards Institute (ANSI)
 
-Guías de práctica clínica
+### Guías de práctica clínica:
 
 - International Pressure Injury/Ulcer Guideline (consolidación de NPIAP, EPUAP y PPPIA)
 - Guías de manejo de discrepancia de longitud de miembros inferiores (derivadas de Cochrane y revisiones de PubMed)
