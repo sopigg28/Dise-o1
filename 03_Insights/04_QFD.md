@@ -95,18 +95,5 @@ Relación entre cada requerimiento y cada característica técnica.
 | Los tres tipos de relación | ʘ (9), O (3) y Δ (1) presentes |
 
 
-| Deseo (QUÉ) | CT1 Masa | CT2 Flexión | CT3 Compensación | CT4 Durabilidad | CT5 Costo | CT6 Presión | CT7 Amortiguación |
-| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| RQ-01 Adaptación anatómica |  |  |  | | |  |  |
-| RQ-02 Compensar debilidad muscular |  |  |  | | |  |  |
-| RQ-03 Equilibrio y alineación |  |  |  | | |  |  |
-| RQ-04 Transferencia y descenso | |  |  | | | |  |
-| RQ-05 Integración a cotidianidad |  |  |  |  |  |  | |
-| RQ-06 Reducir esfuerzo en marcha |  |  |  | | |  |  |
-| RQ-07 Integridad cutánea |  | | |  | |  |  |
-| RQ-08 Amortiguación y manejo de cargas | | | | | |  |  |
-| RQ-09 Protección durante la marcha |  |  |  | | |  |  |
-
-
 ### Conclusión: 
 La propuesta se posiciona como una solución integral y accesible que supera a las ortesis comerciales especialmente en las necesidades prioritarias de la usuaria —seguridad en marcha, reducción de esfuerzo y facilidad de movimiento—, que son precisamente los requerimientos vinculados a los pilares de mayor peso en el árbol de objetivos (seguridad y protección, 0,4; estabilidad y adaptabilidad, 0,3).
