@@ -6,3 +6,4 @@
 | Red de Apoyo | Edilma Liscano (Abuela \- familiar) | Red de apoyo principal, con presencia constante que aporta soporte emocional diario y acompañamiento en el seguimiento del proceso de salud de la usuaria primaria. | Mantiene una implicación indirecta, asumiendo un rol de acompañamiento y contención emocional que no depende de la condición física de la usuaria primaria, pero que resulta fundamental para el afrontamiento del proceso de rehabilitación y el seguimiento médico. |
 
 ## Mapa de Empatía
+<img width="3867" height="2774" alt="image" src="https://github.com/user-attachments/assets/9e4db7db-1845-4a37-acd6-3269d421de16" />
