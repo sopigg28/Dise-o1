@@ -74,15 +74,15 @@ Relación entre cada requerimiento y cada característica técnica.
 
 | Deseo (QUÉ) | CT1 Masa | CT2 Flexión | CT3 Compensación | CT4 Durabilidad | CT5 Costo | CT6 Presión | CT7 Amortiguación |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| RQ-01 Adaptación anatómica | ○ | ○ | ● | | | ● | ○ |
-| RQ-02 Compensar debilidad muscular | ○ | ● | ● | | | ● | ○ |
-| RQ-03 Equilibrio y alineación | ○ | ● | ● | | | ● | ○ |
-| RQ-04 Transferencia y descenso | | ● | ○ | | | | ○ |
-| RQ-05 Integración a cotidianidad | ● | ○ | ○ | ● | ● | ○ | |
-| RQ-06 Reducir esfuerzo en marcha | ○ | ○ | ● | | | ● | ○ |
-| RQ-07 Integridad cutánea | ○ | | | ● | | ● | ○ |
-| RQ-08 Amortiguación y manejo de cargas | | | | | | ● | ● |
-| RQ-09 Protección durante la marcha | ○ | ● | ● | | | ● | ● |
+| RQ-01 Adaptación anatómica |  |  |  | | |  |  |
+| RQ-02 Compensar debilidad muscular |  |  |  | | |  |  |
+| RQ-03 Equilibrio y alineación |  |  |  | | |  |  |
+| RQ-04 Transferencia y descenso | |  |  | | | |  |
+| RQ-05 Integración a cotidianidad |  |  |  |  |  |  | |
+| RQ-06 Reducir esfuerzo en marcha |  |  |  | | |  |  |
+| RQ-07 Integridad cutánea |  | | |  | |  |  |
+| RQ-08 Amortiguación y manejo de cargas | | | | | |  |  |
+| RQ-09 Protección durante la marcha |  |  |  | | |  |  |
 
 
 ### Conclusión: 
