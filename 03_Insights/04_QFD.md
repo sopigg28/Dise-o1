@@ -1,6 +1,8 @@
 # Quality Fuction Deployment (QFD) - Casa de la calidad
 
-<img width="921" height="921" alt="DISEÑO 1" src="https://github.com/user-attachments/assets/b245fa43-22b3-475c-acb0-bea0e805c31f" />
+
+<img width="502" height="482" alt="image" src="https://github.com/user-attachments/assets/3972d7a2-6214-4808-ac9b-8b3dd3204eb8" />
+
 
 ### Introducción
 La Casa de la Calidad (House of Quality) es la herramienta implementada para traducir la necesidad del cliente en requisitos de diseño. En esta fase se establece el ritmo de todo el proceso: se identifican los requerimientos del usuario, se definen las características técnicas que los satisfacen, se asignan valores objetivo y se compara el desempeño frente a la competencia.
