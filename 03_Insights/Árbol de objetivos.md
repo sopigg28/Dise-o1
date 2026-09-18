@@ -17,6 +17,7 @@
 | **Autonomía** | 0 | 0 | 0 | — | **0** | **1** |
 |  |  |  |  | Total | **6** | — |
 
+
 ## Peso para cada objetivo:
 | Objetivo | Peso  | Porcentaje (%) |
 | :---- | :---- | :---- |
@@ -24,3 +25,21 @@
 | **Movilidad** | **2/10** | 0,2 |
 | **Estabilidad** | **3/10** | 0,3 |
 | **Autonomía** | **1/10** | 0,1 |
+
+
+## Árbol de objetivos:
+
+mindmap
+  root((**Ortesis para miembro inferior**<br>1 | 1))
+    **Seguridad y protección**<br>0,4 | 0,4
+      Proteger la integridad cutánea <br>**0,5** | **0,2**
+      Garantizar amortiguación y manejo de cargas <br>**0,3** | **0,12**
+      Asegurar protección durante la marcha <br>**0,2** | **0,08**
+    **Movilidad y autonomía**<br>0,3 | 0,3
+      Facilitar la transferencia y el descenso <br>**0,4** | **0,12**
+      Reducir el esfuerzo en la marcha <br>**0,35** | **0,105**
+      Integrarse a la cotidianidad de la paciente <br>**0,25** | **0,075**
+    **Estabilidad y adaptabilidad**<br>0,3 | 0,3
+      Mantener el equilibrio y la alineación <br>**0,4** | **0,12**
+      Adaptarse anatómicamente a la paciente <br>**0,35** | **0,105**
+      Compensar la debilidad muscular <br>**0,25** | **0,075**
