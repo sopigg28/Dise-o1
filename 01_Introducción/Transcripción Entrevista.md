@@ -58,6 +58,66 @@
 
 ## Transcripción entrevista usuario segundo caso 2 (Sebastián Pamplona):
 
+**Sofia Delgado:** ¿Podrías indicarnos tu nombre?
+
+**Sebastián Pamplona:** Hola, mucho gusto. Mi nombre es Sebastián Pamplona.
+
+**Sophia Gil:** ¿Podrías contarnos brevemente cómo ocurrió el accidente?
+
+**Sebastián Pamplona:** Fue un accidente automovilístico. Iba en moto, me pasé un pare y un vehículo impactó mi costado.
+
+**Sofia Delgado:** ¿En qué fecha ocurrió?
+
+**Sebastián Pamplona:** El primero de abril de este año.
+
+**Sophia Gil:** ¿Cómo cambió tu vida después del accidente?
+
+**Sebastián Pamplona:** Fue un golpe de realidad. Quedé sin moto, en muletas y con conflictos familiares. Fue algo grave.
+
+**Sofia Delgado:** ¿Qué actividades realizabas antes del accidente que ahora se te dificultan o ya no puedes realizar?
+
+**Sebastián Pamplona:** Siempre he sido muy atlético: gimnasio y fútbol. Las pesas se me dificultaron mucho tiempo porque no tenía fuerza en la pierna; y en el fútbol, primero por miedo y segundo por el dolor en la rodilla.
+
+**Sophia Gil:** ¿Cómo describirías actualmente tu movilidad de rodilla?
+
+**Sebastián Pamplona:** Gracias a las terapias ha mejorado, pero todavía la siento débil, no del todo fuerte.
+
+**Sofia Delgado:** ¿Podrías describirnos el tipo de lesión que presentaste?
+
+**Sebastián Pamplona:** Tuve esguince en el tobillo y esguince en la parte interna de la rodilla.
+
+**Sophia Gil:** ¿El dolor se presenta solo durante el ejercicio o también en el día a día?
+
+**Sebastián Pamplona:** Más que todo me duele al hacer pesas. En el día a día no siento dolor.
+
+**Sofia Delgado:** ¿Cómo fue tu experiencia con el uso de muletas?
+
+**Sebastián Pamplona:** Al principio fue extraño porque nunca las había usado; casi me caigo al salir de la clínica. En la universidad era un fastidio por el tiempo caminando con ellas: me dolía el pie y me cansaba rápido. Con el tiempo me acostumbré.
+
+**Sophia Gil:** ¿Sigues usando muletas actualmente?
+
+**Sebastián Pamplona:** No, ya no.
+
+**Sofia Delgado:** ¿Cómo te movilizas actualmente? ¿Sigues usando moto?
+
+**Sebastián Pamplona:** Sí, pero ya respeto los pares. Estamos previniendo otro accidente.
+
+**Sophia Gil:** ¿Qué actividad te gustaría retomar sin la limitación actual de la rodilla?
+
+**Sebastián  Pamplona:** Lo que más me dificulta es el trabajo de piernas en el gimnasio, porque casi no tengo fuerza en esa pierna y me entra dolor en la parte interna de la rodilla.
+
+**Sofia Delgado:** ¿El malestar se limita únicamente al ejercicio, o presentas también fatiga rápida o alteraciones de la marcha como cojera?
+
+**Sebastián Pamplona:** Correcto, solo hay malestar al hacer ejercicio. No me canso rápido ni cojeo.
+
+**Sophia Gil:** ¿Con qué frecuencia realizas ejercicio?
+
+**Sebastián Pamplona:** Unas dos veces por semana, en el gimnasio.
+
+**Sofia Delgado:** ¿Y al jugar fútbol, la rodilla presenta molestias?
+
+**Sebastián Pamplona:** No me molesta, pero está muy sensible. Con que me golpeen, ya quedo con dolor en la rodilla.
+
 **Sofia Delgado:** Eh, y si pudiéramos resolver tu necesidad relacionada a la movilidad de la rodilla mejorando tu seguridad, ¿qué imaginarías? 
 
 **Sebastian Pamplona:** Pues lo que yo usé mucho fue un estabilizador. Entonces, no sé, de pronto algo que recurra la rodilla, que pueda hacerla como más, más fuerte, más resistente. 
