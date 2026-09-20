@@ -1,6 +1,8 @@
 # Matriz de juran:
 # Matriz de Juran
 
+Las necesidades presentadas en la matriz de Juran fueron obtenidas a partir de dos entrevistas directas realizadas a personas que sufrieron accidentes de tránsito con afectación en miembros inferiores, así como de diversas declaraciones y testimonios recopilados en plataformas de noticias que documentaron este tipo de siniestros y las afectaciones físicas resultantes. Estas fuentes permitieron identificar, de manera generalizada, las principales limitaciones funcionales, necesidades de apoyo externo y preocupaciones emocionales y sociales que enfrentan los usuarios durante su proceso de recuperación, tales como la dificultad para realizar acciones básicas, el temor a nuevas cirugías o recaídas, la pérdida de fuerza y movilidad, y la necesidad de recuperar su independencia y calidad de vida.
+
 | # | Voz del Cliente (Entrevista directa) | Necesidad interpretada | Clasificación |
 | :---- | :---- | :---- | :---- |
 | 1 | "Tuve un accidente de tránsito que me afectó la pierna." | La solución requiere una adaptación anatómica a las condiciones particulares de la extremidad inferior afectada, considerando la gravedad del trauma y sus secuelas estructurales. | Real |
