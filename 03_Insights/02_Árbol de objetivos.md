@@ -31,7 +31,7 @@
 
 ```mermaid
 mindmap
-  root((**Ortesis para miembro inferior**<br>1 | 1))
+  root((**Solución ante accidente para miembro inferior**<br>1 | 1))
     **Seguridad y protección**<br>0,4 | 0,4
       Proteger la integridad cutánea <br>**0,5** | **0,2**
       Garantizar amortiguación y manejo de cargas <br>**0,3** | **0,12**
